@@ -1,0 +1,63 @@
+$date
+	Fri Aug 20 22:41:49 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module test $end
+$var wire 1 ! s $end
+$var wire 1 " done $end
+$var wire 1 # carry $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$scope module uut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var reg 1 # carry $end
+$var reg 1 " done $end
+$var reg 1 ! s $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0$
+0#
+1"
+0!
+$end
+#10000000000000
+1!
+1"
+1$
+#20000000000000
+1"
+0$
+1%
+#30000000000000
+0!
+1#
+1"
+1$
+#40000000000000
+0#
+1"
+0$
+0%
+#50000000000000
+1!
+1"
+1$
+#60000000000000
+1"
+0$
+1%
+#70000000000000
+0!
+1#
+1"
+1$
